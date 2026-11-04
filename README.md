@@ -20,4 +20,4 @@ npm run dev
 
 ## Deploy
 
-Push to `main`. In the repository go to Settings > Pages > Source: **GitHub Actions**.
+Push to `main` or `master`. In the repository go to Settings > Pages > Source: **GitHub Actions**.
